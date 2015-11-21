@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mPetstorePetServiceSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe PetstoreApp[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return valid pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail to return invalid pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should add valid pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail appropriately when adding invalid pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should update valid pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail attempts to update pets without specifying an ID to modify[0m[0m
+[0m[[0minfo[0m] [0m[32m- should successfully find pets by status[0m[0m
+[0m[[0minfo[0m] [0m[32m- should successfully find pets by tag[0m[0m
+[0m[[0minfo[0m] [0m[32m- should successfully delete existing pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail to delete nonexistant pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow the updating of pets via form data[0m[0m
+[0m[[0minfo[0m] [0m[32m- should accept file uploads[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to add an array of users[0m[0m

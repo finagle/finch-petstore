@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mPetstoreUserServiceSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when trying to create a new user with the same username as an existing one[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to add users via array[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when trying to find a user that doesn't exist[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail to delete users that don't exist[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when trying to update a user that doesn't exist[0m[0m

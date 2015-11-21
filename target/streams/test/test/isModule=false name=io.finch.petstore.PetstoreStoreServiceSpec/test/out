@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mPetstoreStoreServiceSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to return the current inventory[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to add new orders to the store[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to delete orders from the store[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when searching for an order that doesn't exist[0m[0m

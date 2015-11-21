@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m[32mStatusSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe Status codec[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly decode JSON[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail to decode irrelevant JSON[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly encode Status objects[0m[0m

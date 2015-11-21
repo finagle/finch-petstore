@@ -1,0 +1,34 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.PetstoreStoreServiceSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.PetstoreDbSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.PetstorePetServiceSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.OrderStatusSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.CategorySpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.PetSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.InventorySpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.UserSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.OrderSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.StatusSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.PetstoreUserServiceSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(io.finch.petstore.TagSpec, org.scalatest.tools.Framework$$anon$1@113f81ac, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mScalaCheck[0m
+[0m[[0minfo[0m] [0mPassed: Total 0, Failed 0, Errors 0, Passed 0[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 3 seconds, 681 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 66[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 12, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 66, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0minfo[0m] [0mPassed: Total 66, Failed 0, Errors 0, Passed 66[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.PetstoreStoreServiceSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.StatusSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.OrderSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.InventorySpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.PetstoreUserServiceSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.UserSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.OrderStatusSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.PetstoreDbSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.CategorySpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.TagSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.PetSpec[0m
+[0m[[0mdebug[0m] [0m	io.finch.petstore.PetstorePetServiceSpec[0m

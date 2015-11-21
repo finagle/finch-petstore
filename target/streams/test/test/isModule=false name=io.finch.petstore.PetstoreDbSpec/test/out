@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0m[32mPetstoreDbSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe Petstore DB[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow pet lookup by id[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail appropriately when asked to get pet ids that don't exist[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow adding pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow adding pets with no category[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow adding pets with no tags[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail appropriately when asked to add invalid pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow for the updating of existing pets via new Pet object[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail appropriately for the updating of nonexistant pets[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail to update pets when replacements are passed with no ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow the lookup of pets by status[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find pets by tags[0m[0m
+[0m[[0minfo[0m] [0m[32m- should find pets by multiple tags[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow the deletion of existing pets from the database[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail appropriately if user tries to delete a nonexistant pet[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to update existing pets with form data[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when a pet to be updated via form data isn't passed with a valid ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return status counts[0m[0m
+[0m[[0minfo[0m] [0m[32m- should place pet orders[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail to place orders that are passed with an order ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to delete orders by ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail appropriately when trying to delete nonexistent orders by ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to find an order by its ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to add new users[0m[0m
+[0m[[0minfo[0m] [0m[32m- should fail when trying to create a new user that's passed with an ID[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be able to delete users[0m[0m
+[0m[[0minfo[0m] [0m[32m- should facillitate searching for users via username[0m[0m
+[0m[[0minfo[0m] [0m[32m- should allow the updating of existing users[0m[0m

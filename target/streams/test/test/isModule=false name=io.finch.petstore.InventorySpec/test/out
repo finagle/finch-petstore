@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mInventorySpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe Inventory codec[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly decode JSON to Inventory[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly encode an Inventory to JSON[0m[0m

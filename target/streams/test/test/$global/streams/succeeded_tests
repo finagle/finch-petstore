@@ -1,0 +1,14 @@
+#Successful Tests
+#Sat Nov 21 11:55:13 PST 2015
+io.finch.petstore.PetSpec=1448135712780
+io.finch.petstore.OrderStatusSpec=1448135710767
+io.finch.petstore.InventorySpec=1448135711177
+io.finch.petstore.TagSpec=1448135711786
+io.finch.petstore.PetstoreDbSpec=1448135713081
+io.finch.petstore.CategorySpec=1448135710996
+io.finch.petstore.UserSpec=1448135711462
+io.finch.petstore.StatusSpec=1448135711654
+io.finch.petstore.PetstorePetServiceSpec=1448135711580
+io.finch.petstore.PetstoreUserServiceSpec=1448135711686
+io.finch.petstore.OrderSpec=1448135711725
+io.finch.petstore.PetstoreStoreServiceSpec=1448135711064

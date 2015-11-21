@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/vkostyukov/workspace/finch-petstore/src/test/resources/doge.jpg,/Users/vkostyukov/workspace/finch-petstore/target/scala-2.11/test-classes/doge.jpg)[0m
+[0m[[0mdebug[0m] [0m	(/Users/vkostyukov/workspace/finch-petstore/src/test/resources/totoro.jpg,/Users/vkostyukov/workspace/finch-petstore/target/scala-2.11/test-classes/totoro.jpg)[0m

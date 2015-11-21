@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mOrderStatusSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe OrderStatus codec[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly fail to decode irrelevant JSON[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly encode OrderStatus objects[0m[0m

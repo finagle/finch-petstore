@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m[32mUserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe User codec[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly decode JSON to User[0m[0m
+[0m[[0minfo[0m] [0m[32m- should correctly encode a User to JSON[0m[0m
